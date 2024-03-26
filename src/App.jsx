@@ -1,10 +1,11 @@
 import "./App.css";
+import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
-    <>
-      <p className="text-xl ">This si text</p>
-    </>
+    <div className="flex justify-start min-h-full w-full">
+      <Sidebar />
+    </div>
   );
 }
 
