@@ -25,7 +25,7 @@ const Sidebar = () => {
             ></path>
           </svg>
         </a>
-        <ul className="p-4 bg-black text-white flex flex-col justify-start items-center gap-5">
+        <ul className="p-4 bg-black text-white flex flex-col justify-start items-center gap-7">
           <li>
             <div>
               <svg
@@ -137,7 +137,7 @@ const Sidebar = () => {
           </li>
         </ul>
       </div>
-      <ul className="p-4 bg-black text-white flex flex-col justify-start items-center gap-5 pb-0">
+      <ul className="p-4 bg-black text-white flex flex-col justify-start items-center gap-7 pb-0">
         <a>
           <svg
             xmlns="http://www.w3.org/2000/svg"
